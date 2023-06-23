@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="33dac407-3dfe-45fc-9f47-4b4b5730eb8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pntr04.go" beforeDir="false" afterPath="$PROJECT_DIR$/pntr04_.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/kadum_fr7o51t/OneDrive/Documentos/estudo/repositorios/algoritmos-ponteiros-karlosmafra",
+    "last_opened_file_path": "C:/Users/kadum_fr7o51t/OneDrive/Documentos/estudo/repositorios/algoritmos-mapas-karlosmafra",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
